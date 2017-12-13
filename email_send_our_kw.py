@@ -32,3 +32,5 @@ def email_send(program_name):
           server.quit()
      except Exception as e:
         print(program_name," failed to send mail",e)
+#
+# updated txt here for checking in github
